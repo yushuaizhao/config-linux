@@ -1,0 +1,9 @@
+# 额外安装
+mathematica 
+
+matlab 
+
+# 可选安装
+
+story-writer
+
