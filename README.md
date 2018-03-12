@@ -2,6 +2,10 @@
 
 <https://mirrors.tuna.tsinghua.edu.cn/deepin>
 
+# 下载工具
+
+通过app.txt下载
+
 # xx-net
 
 <https://github.com/XX-net/XX-Net/wiki/%E5%9C%A8Linux%E4%B8%8B%E5%A6%82%E4%BD%95%E5%B0%86XX-Net%E4%BD%9C%E4%B8%BA%E5%90%8E%E5%8F%B0%E6%9C%8D%E5%8A%A1%E5%90%AF%E5%8A%A8>
@@ -85,3 +89,6 @@ git config --global user.name "yushuaizhao"
 git config --global credential.helper store
 ```
 
+# ipv6-host
+
+<https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts>
