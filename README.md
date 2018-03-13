@@ -41,6 +41,11 @@ index-url = https://pypi.tuna.tsinghua.edu.cn/simple
 pip pip3 install numpy matplotlib pandas pyserial xlrd tensorflow
 ```
 
+## opencv-python 
+
+opencv3.0改版,将一些算法放入opencv-contrib中,因此需要编译安装,参考<https://yushuaizhao.github.io/2017/10/30/opencv+python%E5%9C%A8Linux%E4%B8%8B%E7%9A%84%E5%AE%89%E8%A3%85/>
+
+
 # latex
 
 ```
