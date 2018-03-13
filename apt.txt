@@ -1,1 +1,1 @@
-sudo apt install -y golang atom texlive-full lyx git virtualbox emacs apt-transport-https ca-certificates curl gnupg2 software-properties-common uget calibre gimp xmind pycharm-professional vscode codeblocks  transmission python-pip python3-pip pandoc pandoc-citeproc xclip copyq
+sudo apt install -y golang atom texlive-full lyx git virtualbox emacs apt-transport-https ca-certificates curl gnupg2 software-properties-common uget calibre gimp xmind pycharm-professional vscode codeblocks  transmission python-pip python3-pip pandoc pandoc-citeproc xclip copyq zsh

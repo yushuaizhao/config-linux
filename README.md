@@ -17,6 +17,11 @@ cd /etc/init.d
 sudo ln -s /home/##yourName##/XX-Net/xx_net.sh xx_net
 sudo systemctl enable xx_net
 ```
+# oh-my-zsh
+
+```
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
 
 # source-code-pro
 
